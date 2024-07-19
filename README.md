@@ -19,6 +19,7 @@
 - 진행 기간 : 2024.07.09 ~ 2024.07.19
 - 기여도 : 100% (개인 프로젝트)
 - 배포 주소 : https://yu-hazel.github.io/baseball_v2/
+- UI정의서 : https://drive.google.com/file/d/1vYiCuAhtARHWw1QVwoR-fyevPWF6OrS5/view?usp=drive_link
 
 <br>
 
