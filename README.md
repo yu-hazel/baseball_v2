@@ -1,9 +1,9 @@
 # ⚾️ 내 꿈은 승리요정 ver.2
 
-#### 이겨도, 져도 화가 나는 야구 찐팬들을 위한 야구 기록 웹 앱
+### 이겨도, 져도 화가 나는 야구 찐팬들을 위한 야구 기록 웹 앱
 
 이 프로젝트는 'Vue.js를 활용한 프로그레시브 웹 앱(PWA) 개발자 양성과정[14th]' 수강을 바탕으로 제작한 개인 포트폴리오 프로젝트입니다. <br>
-초기 버전(ver.1)에서는 모든 항목을 수기로 입력하고 로컬 스토리지에 저장하는 로직으로 이루어졌습니다. <br>
+초기 버전(ver.1)은 모든 항목을 수기로 입력하고 로컬 스토리지에 저장하는 로직으로 이루어졌습니다. <br>
 해당 디벨롭 버전(ver.2)에서는 **Supabase**를 통한 데이터 관리로 반영구적인 데이터 관리를 구현하고, 사용자의 입력 피로도를 감소하는 데 주 목적을 두어 개발하였습니다.
 
 **Vite + Vue.js**를 사용하여 빌드 과정을 간소화하였으며, **Vuetify**를 활용하여 UI 커스텀 비용을 최소화했습니다. <br>
@@ -19,7 +19,7 @@
 - 진행 기간 : 2024.07.09 ~ 2024.07.19
 - 기여도 : 100% (개인 프로젝트)
 - 배포 주소 : https://yu-hazel.github.io/baseball_v2/
-- UI정의서 : https://drive.google.com/file/d/1vYiCuAhtARHWw1QVwoR-fyevPWF6OrS5/view?usp=drive_link
+- [UI정의서](https://drive.google.com/file/d/1EFrpVXLYfYtL2qvvhen-D7c_k7I0MUHK/view?usp=drive_link)
 
 <br>
 
