@@ -89,7 +89,11 @@
   - 해결 방법
      : watch를 사용하여 사용자가 로그인하거나 사용자의 마이 팀이 변경될 때마다 updateBackgroundClass 함수가 호출되도록 수정
 
-```javascript
+  <details>
+  <summary>코드 보기</summary>
+  <div markdown="1">
+
+  ```javascript
 const teamMapping = {
   '한화': 'hanwha',
   '두산': 'doosan',
@@ -155,6 +159,11 @@ onMounted(async () => {
 });
 ```
 
+  </div>
+  </details>
+
+
+
   - 느낀 점
      : 상태 변화를 감지하는 Vue의 watch, 그리고 onMounted와 같은 생명주기 훅의 적절한 활용 방법을 다시 한 번 숙지하게 되었음.
 
@@ -164,6 +173,11 @@ onMounted(async () => {
   - 문제 상황 : 로그인 후 기록 데이터를 가져오는 과정에서 baseball02 테이블의 모든 레코드를 가져오는 상황 발생
   - 원인 : 개발 과정에서 다른 사용자의 데이터를 고려하지 않아 user id를 통한 레코드 필터링 과정을 누락함
   - 해결 방법 : stores/game.js의 fetchGames 메서드를 수정하여 인증된 사용자의 id에 따라 레코드를 가져오도록 수정
+
+
+   <details>
+  <summary>코드 보기</summary>
+  <div markdown="1">
 
 ```javascript
 async fetchGames(userId) {
@@ -179,6 +193,9 @@ async fetchGames(userId) {
   }
 }
 ```
+</div>
+</details>
+
   - 느낀 점 : 사용자별로 다른 데이터를 보여주어야 하는 프로그램을 개발할 때, 습관적으로 별도 로그인 환경을 함께 확인해야겠다고 반성하게 되었음.
 
 <br>
