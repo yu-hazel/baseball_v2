@@ -18,7 +18,7 @@
 - 프로젝트 이름 : 내 꿈은 승리요정
 - 진행 기간 : 2024.07.09 ~ 2024.07.19
 - 기여도 : 100% (개인 프로젝트)
-- 배포 주소 : https://yu-hazel.github.io/baseball_v2/
+- [배포 주소](https://yu-hazel.github.io/baseball_v2/)
 - [UI정의서](https://drive.google.com/file/d/1EFrpVXLYfYtL2qvvhen-D7c_k7I0MUHK/view?usp=drive_link)
 
 <br>
