@@ -1,0 +1,1427 @@
+{
+    "08.01(목)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-2T",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "SSG",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "MS-T",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "KN-T",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SS-T",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-T",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.02(금)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "MS-T",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-2T",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "KN-T",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-T",
+            "location": "대전",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SS-T",
+            "location": "울산",
+            "result": "-"
+        }
+    ],
+    "08.03(토)": [
+        {
+            "time": "18:00",
+            "home_team": "두산",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "MS-T",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "삼성",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-2T",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "NC",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "KN-T",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "한화",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-T",
+            "location": "대전",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "롯데",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SS-T",
+            "location": "울산",
+            "result": "-"
+        }
+    ],
+    "08.04(일)": [
+        {
+            "time": "17:00",
+            "home_team": "두산",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "MS-T",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "삼성",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-2T",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "NC",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "KN-T",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "한화",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SPO-T",
+            "location": "대전",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "롯데",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "SS-T",
+            "location": "울산",
+            "result": "-"
+        }
+    ],
+    "08.06(화)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.07(수)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.08(목)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "프리뷰",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.09(금)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "SSG",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.10(토)": [
+        {
+            "time": "18:00",
+            "home_team": "LG",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "SSG",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "KT",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "KIA",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "한화",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.11(일)": [
+        {
+            "time": "17:00",
+            "home_team": "LG",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "SSG",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "KT",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "KIA",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "한화",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.13(화)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.14(수)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.15(목)": [
+        {
+            "time": "17:00",
+            "home_team": "두산",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "삼성",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "NC",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "키움",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "한화",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대전",
+            "result": "-"
+        }
+    ],
+    "08.16(금)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "SSG",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        }
+    ],
+    "08.17(토)": [
+        {
+            "time": "18:00",
+            "home_team": "LG",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "SSG",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "롯데",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "NC",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "KT",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        }
+    ],
+    "08.18(일)": [
+        {
+            "time": "17:00",
+            "home_team": "LG",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "SSG",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "롯데",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "NC",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "KT",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        }
+    ],
+    "08.20(화)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "포항",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "청주",
+            "result": "-"
+        }
+    ],
+    "08.21(수)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "포항",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "청주",
+            "result": "-"
+        }
+    ],
+    "08.22(목)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KT",
+            "away_team": "키움",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "수원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "포항",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "한화",
+            "away_team": "NC",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "청주",
+            "result": "-"
+        }
+    ],
+    "08.23(금)": [
+        {
+            "time": "18:30",
+            "home_team": "두산",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "SSG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "삼성",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.24(토)": [
+        {
+            "time": "18:00",
+            "home_team": "두산",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "SSG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "삼성",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "NC",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:00",
+            "home_team": "키움",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.25(일)": [
+        {
+            "time": "14:00",
+            "home_team": "키움",
+            "away_team": "LG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "두산",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "SSG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "문학",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "삼성",
+            "away_team": "롯데",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "대구",
+            "result": "-"
+        },
+        {
+            "time": "17:00",
+            "home_team": "NC",
+            "away_team": "KIA",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        }
+    ],
+    "08.27(화)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.28(수)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ],
+    "08.29(목)": [
+        {
+            "time": "18:30",
+            "home_team": "LG",
+            "away_team": "KT",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "잠실",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "롯데",
+            "away_team": "한화",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "사직",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "NC",
+            "away_team": "두산",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "창원",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "KIA",
+            "away_team": "SSG",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "광주",
+            "result": "-"
+        },
+        {
+            "time": "18:30",
+            "home_team": "키움",
+            "away_team": "삼성",
+            "home_score": "",
+            "away_score": "vs",
+            "preview": "",
+            "tv_channel": "",
+            "location": "고척",
+            "result": "-"
+        }
+    ]
+}
