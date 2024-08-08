@@ -13,8 +13,7 @@
               <v-icon @click="toggleMyTeam" color="grey-darken-3" size="x-small" class="tooltipBt">
                 mdi-baseball
               </v-icon>
-              <v-card v-if="showMyTeam" class="myTeamCard"
-                style="position: absolute; left: 155px; z-index: 1000; height: 100px; backdrop-filter: blur(5px); background-color: #ffffff7d;">
+              <v-card v-if="showMyTeam" class="myTeamCard">
                 <v-card-text>
                   <MyTeam />
                 </v-card-text>
@@ -119,18 +118,6 @@ watch(() => authStore.user, async (newUser) => {
   }
 });
 
-// watch(() => authStore.user, async (newUser) => {
-//   const appWrap = document.querySelector('.v-application__wrap');
-//   if (!newUser) {
-//     appWrap.classList.add('logged-out');
-//   } else {
-//     const userTeam = await fetchUserTeam(newUser.id); // 사용자 ID로 팀 정보를 가져옴
-//     if (userTeam) {
-//       updateBackgroundClass(userTeam);
-//     }
-//   }
-// });
-
 onMounted(async () => {
   await initBackgroundClass();
   if (authStore.user?.id) {
@@ -146,12 +133,6 @@ onMounted(async () => {
 .v-application__wrap {
   background: linear-gradient(to top, #e3e3e3, #ebebeb, #ffffff);
 }
-
-/* .logged-out {
-  background: url('@/assets/kbo.svg') no-repeat center center fixed;
-  background-size: cover;
-} */
-
 .team-logo::before {
   content: "";
   position: fixed;
@@ -196,7 +177,6 @@ onMounted(async () => {
 .team-lg::before {
   background: url('@/assets/lg_logo.svg') no-repeat;
   scale: 0.8;
-
 }
 .team-kt::before {
   background: url('@/assets/kt_logo.svg') no-repeat;
@@ -214,63 +194,56 @@ onMounted(async () => {
   top: -15vh;
   left: 35vw;
 }
-
 .header {
   display: flex;
   justify-content: space-between;
   position: relative;
   height: 150px;
 }
-
 h2 {
   font-family: 'Freesentation-9Black';
 }
-
 .headerTitle {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
 }
-
 .headerTitle p {
   display: flex;
   align-items: center;
 }
-
 .recordHistory {
   display: flex;
   flex-direction: column;
   justify-content: center;
   font-size: 16px;
 }
-
 .recordHistory p:first-of-type {
   display: flex;
   gap: 3px;
   font-size: 14px;
   color: #474747;
 }
-
 .recordHistory p:last-of-type {
   font-size: 16px;
   font-weight: 600;
   padding-left: 27px;
 }
-
 .loginWrapper {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
-
 .tooltipBt {
   margin-left: 3px;
 }
-
 .myTeamCard {
-  /* position: absolute; */
-  top: 50px;
-  left: 100px;
+  position: absolute !important;
+  top: 75px;
+  left: 150px;
   z-index: 1000;
+  height: 100px;
+  backdrop-filter: blur(5px) !important;
+  background-color: rgba(255, 255, 255, 0.49) !important;
 }
 </style>
