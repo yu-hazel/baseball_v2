@@ -13,10 +13,10 @@
                     <p v-if="dateSelected && scheduleItemsNames.length === 0" class="noGames">해당 날짜에는 경기 일정이 없습니다.</p>
                     <div class="d-flex align-center mb-4">
                         <v-text-field v-model="awayScore" type="number" class="mr-2" style="max-width: 60px;"
-                            variant="underlined"></v-text-field>
+                            variant="underlined" min="0"></v-text-field>
                         <span>:</span>
                         <v-text-field v-model="homeScore" type="number" class="ml-2" style="max-width: 60px;"
-                            variant="underlined"></v-text-field>
+                            variant="underlined" min="0"></v-text-field>
                     </div>
                     <v-textarea rows="10" label="이 경기는 어땠나요?" v-model="comment"></v-textarea>
                 </v-form>
