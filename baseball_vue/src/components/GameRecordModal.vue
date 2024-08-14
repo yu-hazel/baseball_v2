@@ -6,6 +6,7 @@
             </v-card-title>
             <v-card-text>
                 <v-form>
+                    <p v-if="errorMessage" class="errorMessage">{{ errorMessage }}</p>
                     <v-text-field label="경기 날짜" v-model="date" type="date" @input="fetchSchedules"
                         class="selectDate"></v-text-field>
                     <v-select v-if="scheduleItemsNames.length > 0" :items="scheduleItemsNames" label="경기 선택"
@@ -44,6 +45,7 @@ const homeScore = ref(0);
 const comment = ref('');
 const selectedDate = ref(null);
 const dateSelected = ref(false);
+const errorMessage = ref('');
 
 // const allowedDates = (date) => {
 //     const day = new Date(date).getDay();
@@ -89,10 +91,20 @@ const setTeams = () => {
 };
 
 const save = async () => {
-    if (!selectedSchedule.value) {
-        console.error('Error: No game selected');
+    if (!date.value) {
+        errorMessage.value = '기록하시려는 경기 날짜를 선택해 주세요.';
         return;
     }
+    if (!selectedSchedule.value) {
+        errorMessage.value = '경기 날짜에 따른 일정도 선택해 주세요.'
+        return;
+    }
+
+    if (awayScore.value < 0 || homeScore.value < 0) {
+        errorMessage.value = '점수는 0 이상이어야 합니다.';
+        return;
+    }
+
     const selectedGame = gameStore.scheduleItems.find(
         s => `${s.away_team} vs ${s.home_team}` === selectedSchedule.value
     );
@@ -111,6 +123,7 @@ const save = async () => {
     if (error) {
         console.error('Error inserting data:', error);
     } else {
+        errorMessage.value = '';
         await gameStore.fetchGames();
         close();
         window.location.reload();
@@ -127,9 +140,24 @@ watch(
             awayScore.value = 0;
             homeScore.value = 0;
             comment.value = '';
+            errorMessage.value = '';
         }
     }
 );
+
+watch([date, selectedSchedule], () => {
+    errorMessage.value = '';
+});
+
+watch([date, selectedSchedule, awayScore, homeScore], ([newDate, newSchedule, newAwayScore, newHomeScore]) => {
+    if (newAwayScore < 0 || newHomeScore < 0) {
+        errorMessage.value = '점수는 0 이상이어야 합니다.';
+    } else {
+        errorMessage.value = ''; // 오류 조건이 해소되면 메시지 초기화
+    }
+});
+
+
 </script>
 
 <style scoped>
@@ -149,5 +177,11 @@ watch(
     justify-content: center;
     font-size: 12px;
     color: rgb(106, 106, 106);
+}
+
+.errorMessage {
+    font-size: 12px;
+    color: red;
+    margin-bottom: 5px;
 }
 </style>
